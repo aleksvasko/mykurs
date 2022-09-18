@@ -1,0 +1,72 @@
+.menu {
+  color: royalblue;
+}
+
+span {
+  color: blueviolet;
+}
+
+#Имена {
+  color: red;
+}
+
+
+
+
+.oath + p {
+  color: green;
+}
+
+.text p {
+  color: darkorange;
+}
+
+.text p {
+  color: green;
+}
+
+
+.text-li a {
+  color: brown;
+}
+
+/* проверка приоритета id */
+.textreal {
+  color: darkorange;
+}
+
+#textreal-id {
+  color: blue;
+}
+
+.textreal p{
+	color:red;
+}
+/* конец проверки */
+
+.title-h2 + p{
+	color:chartreuse;
+}
+
+.textreal .paragraph {
+	color:darkblue;
+}
+.title-h2{
+	color:cornflowerblue;
+}
+
+
+.list-leo > li {
+	color:blueviolet;
+}
+.praid-list li {
+	color: blue;
+  }
+
+.praid-list li + *{
+	color:aqua;
+}
+
+mark{
+	color: deepskyblue;
+}
